@@ -1,7 +1,7 @@
 # orm_ecommerce
 * Logged into database using 
 mysql -u root -p ;source db/schema.sql;Seeded with npm run seed ;
-Created env file and added to gitignore.
+Created env file to include db name ,password and added to gitignore.
 Installed packages/dependencies and ran npm install followed by npm start
 
 * Database Populated/Seeded
