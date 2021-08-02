@@ -9,9 +9,11 @@
 * Database Populated/Seeded
 <img src="./DB_ Populated.gif">
 
-* TAG
-<img src="./Tag.gif">
 * CATEGORY
 <img src="./Category.gif">
+
+* TAG
+<img src="./Tag.gif">
+
 * PRODUCT
 <img src="./Product.gif">
