@@ -1,4 +1,8 @@
 # orm_ecommerce
-Database Populated/Seeded
+* Database Populated/Seeded
+<img src="./DB_Populated.gif">
 
-Category ;Product ; Tag - Visual output
+* Category ;Product ; Tag - GET ALL ;GET BY ID ;CREATE OR POST ;PUT OR UPDATE BY ID;DELETE BY ID 
+<img src="./Tag.gif">
+<img src="./Category.gif">
+<img src="./Product.gif">
