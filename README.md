@@ -1,6 +1,6 @@
 # orm_ecommerce
 * Logged into database using 
-mysql -u root -p 'source db/schema.sql
+mysql -u root -p ;source db/schema.sql
 Seeded with npm run seed ;
 
 * Database Populated/Seeded
